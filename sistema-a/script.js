@@ -3,8 +3,8 @@
  * Versão Express: 2 Perguntas Objetivas
  */
 const CONFIG = {
-  whatsappNumber: "5521975137249",
-  whatsappUrl: "https://wa.me/5521975137249?text=Ol%C3%A1%2C%20desejo%20atendimento",
+  whatsappNumber: "5569984160017",
+  whatsappUrl: "https://wa.me/5569984160017?text=Ol%C3%A1%2C%20desejo%20atendimento",
   defaultMessage: "Olá, desejo atendimento",
 };
 
